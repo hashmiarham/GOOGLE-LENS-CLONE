@@ -41,7 +41,7 @@
 - Mlkit clean implementation
 - Realtime preview and tags
 - Dynamic UI for Dark mode and Light mode
-- More exciting features can be added
+- More exciting features can be added.
 
 <hr>
 
